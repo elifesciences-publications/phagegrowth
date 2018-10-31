@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Payne et al., "CRISPR-based herd immunity can limit phage epidemics in bacterial populations". eLife, 2018. http://dx.doi.org/10.7554/eLife.32035
+
+
+
+
 # phagegrowth
 Simulation model for growing phages on bacterial lawn
 
